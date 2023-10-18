@@ -1,0 +1,1 @@
+HitPoints = 50

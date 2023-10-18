@@ -1,0 +1,5 @@
+table.insert(ProjectilesToAffect, "flamingdamagedmissile2")
+table.insert(ProjectilesToAffect, "flamingmissile2")
+table.insert(ProjectilesToAffect, "flamingcannon")
+table.insert(ProjectilesToAffect, "cannon20mm")
+table.insert(ProjectilesToAffect, "flamingcannon20mm")

@@ -1,0 +1,1 @@
+HideHUDItemsWhenPrerequisitesDisabled = true

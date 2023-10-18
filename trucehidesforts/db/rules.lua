@@ -1,0 +1,1 @@
+HideFortsDuringTruce = true

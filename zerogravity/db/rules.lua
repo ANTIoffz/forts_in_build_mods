@@ -1,0 +1,2 @@
+DebrisCleanup = true
+WeaponsCanFaceAwayFromEnemy = true

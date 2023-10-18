@@ -1,0 +1,1 @@
+MaxWeaponGroupSize = 4

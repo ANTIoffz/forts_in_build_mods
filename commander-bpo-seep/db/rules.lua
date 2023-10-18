@@ -1,0 +1,3 @@
+LaserSightsVisibleToEnemy = false
+FriendlyIncomingMissileIconVisible = true
+EnemyIncomingMissileIconVisible = true

@@ -1,0 +1,1 @@
+Root.Children[1].Control.Children[2].Control.Children[2].Control.Children[1].Texture = path .. "/campaigns/USA/preview.jpg"

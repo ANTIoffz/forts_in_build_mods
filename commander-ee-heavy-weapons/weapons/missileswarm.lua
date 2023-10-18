@@ -1,0 +1,1 @@
+ReloadTime = ReloadTime - 2

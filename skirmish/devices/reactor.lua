@@ -1,0 +1,1 @@
+EnergyProductionRate = 110

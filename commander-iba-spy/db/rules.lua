@@ -1,0 +1,1 @@
+ShowEnemyResources = true

@@ -1,0 +1,1 @@
+ReloadTime = 25
